@@ -10,6 +10,6 @@ The website was built using:
 - FontAwesome for social media icons
 - Google Font API for additional fonts (Libre Baskerville and Heebo) 
 
-Feel free to leverage styling, code, or design to build your own personal website. Working on this personal project helped me market myself better to prospective employers (ultimately landing me a PM job at Spreedly) and draw inspiration for personal projects. 
+Feel free to leverage styling, code, or design to build your own personal website. Developing this website helped me market myself better to prospective employers (ultimately landing me a PM job at Spreedly) and draw inspiration for new personal projects. 
 
 I wanted to create a website from scratch so that I could save on annual hosting costs (Github Pages is free for static websites) and create a low-maintenance website that felt more minimalist than templates could offer. Feel free to shoot me a message if you have any questions or would like to connect! 
