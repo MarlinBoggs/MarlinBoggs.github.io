@@ -8,6 +8,6 @@ The website was built using:
 - FontAwesome for social media icons
 - Google Font API for additional fonts (Libre Baskerville and Heebo) 
 
-Feel free to leverage format, styling, or design to build your own personal website. Working on this personal project helped me market myself better to prospective employers (ultimately landing me a job at Spreedly) and draw inspiration for personal projects. Feel free to contact me if you have any questions.
+Feel free to leverage format, styling, or design to build your own personal website. Working on this personal project helped me market myself better to prospective employers (ultimately landing me a PM job at Spreedly) and draw inspiration for personal projects. Feel free to contact me if you have any questions.
 
 Link to website: www.marlinboggs.com
