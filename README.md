@@ -9,6 +9,8 @@ The website was built using:
 - BootStrap for additional CSS styling
 - FontAwesome for social media icons
 - Google Font API for additional fonts (Libre Baskerville and Heebo) 
+- Namespace.com used to purchase www.marlinboggs.com domain name
+- Website is hosted for free on Github Pages (Thank you Github!) 
 
 Feel free to leverage styling, code, or design to build your own personal website. Developing this website helped me market myself better to prospective employers (ultimately landing me a PM job at Spreedly) and draw inspiration for new personal projects. 
 
